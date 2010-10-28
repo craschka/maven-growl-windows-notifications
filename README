@@ -1,0 +1,3 @@
+this is just a small script for pushing growl notifications from maven to growlforwindows. 
+
+If you want to use this, you have to adjust the path to the growlforwindows binary.
